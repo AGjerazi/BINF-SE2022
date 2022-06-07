@@ -7,3 +7,4 @@ BINF Software Engineering Repository
 * Group 7 - https://github.com/evadaci/Polytechnic-Management-System*
 * Group 8 - https://github.com/kejsib20/Project-Group-8 *
 * Group 10 - https://github.com/omega0verride/Pharmacy-Interactive-Software-System*
+* Group 13 - https://github.com/SoftwareModelingProject/Project*
