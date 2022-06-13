@@ -1,6 +1,7 @@
 # SE2022
 BINF Software Engineering Repository
 
+* Group 1 - https://github.com/aldosula/swe202-project
 * Group 2 - https://github.com/acenga20/ADE2you
 * Group 3 - https://github.com/klaudiakasa/swe202-project
 * Group 5 - https://github.com/adikolli20/Event-Planner-Application
