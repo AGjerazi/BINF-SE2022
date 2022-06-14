@@ -12,6 +12,7 @@ BINF Software Engineering Repository
 * Group 9 - https://github.com/holtik/Bailiff-s-Office-Software-System
 * Group 10 - https://github.com/omega0verride/Pharmacy-Interactive-Software-System
 * Group 11 - https://github.com/lorenalera/sanLuca_Clinic_System
+* Group 12 - https://github.com/mklaidi/Software-M-D-Project
 * Group 13 - https://github.com/SoftwareModelingProject/Project
 * Group 14 - https://github.com/Group-14-SWE/Project
 * Group 16 - https://github.com/c-rubin/Arendi-Pharmacy-Documentation
